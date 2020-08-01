@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Be like water" by Bruce Lee
 Use the left arrow to go back!
